@@ -25,7 +25,6 @@ It's an open-source clone-style project inspired by apps like WhatsApp and Messe
 - ✅ Real-time messaging with Socket.IO
 - ✅ MongoDB for data storage
 - ✅ Message and user search
-- ✅ Clean React UI (Tailwind CSS)
 - ✅ Password encryption with bcrypt
 ---
 
